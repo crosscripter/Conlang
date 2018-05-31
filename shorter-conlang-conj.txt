@@ -1,0 +1,40 @@
+
+
+PERSON VOWELS
+1SM		O 	(oh)
+1SF		o	(au)
+2SM		I	(ee)
+2SF		i 	(ih)
+3SM		A 	(aw)
+3SF		a   (ah)
+1PM		U	(oo)
+1PF		u 	(uh)
+2PM		ai	(eye)
+2PF		ia	(ya)
+3PM		ei	(ay)
+3PF		ie	(ye)
+
+TENSE POSITIONS
+Given the verb zil (zeel) "to make"
+and the 3SM personal vowel A (aw):
+
+		PAST					PRES 					FUT					
+SACT	A`zil  (aw-ZEEL)		zA`il  (zaw-EEL)		zi`lA   (zee-LAW)
+		He made					He makes				He will make
+
+SAPER	Azi`lA (aw-zee-LAW)		ZAi`lA (zaw-ee-LAW)		zillA`A (zee-law-AW)
+		He had made				He has made				He will have made		
+
+SPASS	`Azil  (AW-zeel)		`ZAil  (ZAW-eel)		`ZilA   (ZEE-law)
+		He was made				He is made				He will be made
+
+SPPER	A`zilA (aw-ZEE-law)		ZA`ilA (zaw-EE-law)		zi`lAA  (zee-LAW-aw)
+		He had been made		He has been made		He will have been made
+
+
+Ozil	(oh-ZEEL)		I made (M)
+Zyeil	(ZYEH-eel)		You all are made (F)
+ZilU	(zee-LOO)		We will make
+
+izila	(ih-ZEE-lah)	You had been made (F)
+

@@ -1,0 +1,158 @@
+VOWELS
+A E I O U
+I O A E EI
+
+CONSONANTS 
+C, Q, K, X => L
+S, Z => M
+
+B D F  G H J K L M N P R S T  V W  Y
+Y T Ts D R S L K Z N G V M Sh F Ch H
+י  ת צ  ד ר ס ל ק ז  נ ג  ב מ ש  פ ח  ה
+
+TRANSLATION
+"Cat" => C + a + T
+		 L + I + Sh => Lish של (LEESH)
+         
+ROOTS
+Take => T  + A + K 
+		Sh + I  + L => Shil לש (SHEEL)
+
+PERSON (VOWEL)
+1MS		1FS			2MS		2FS			3MS				3FS
+O (OH) 	o (AW)		I (EE)	i (IH)		A (a, father)	a (a, ask)
+
+1MP		1FP			2MP		 2FP		3MP				3FP
+U (OO)	u (UH)		AI (EYE) IA (YAH)	EI (EY, hey)	IE (YEH)
+
+
+VOICE (STRESS)
+ACTIVE		Ultimate 		Shi`la הלש (shee-LAH)	he WILL take
+PASSIVE		Penultimate		`Shila הלש (SHEE-lah)	he WILL BE taken
+
+TENSE (FIXITY)
+				ACTIVE VOICE
+PREFIX				INFIX				SUFFIX
+Past				Present				Future
+Oshil לשו (oh-SHEEL)	shOil לוש (shoh-EEL)	shilO ולש (shee-LOH)
+I took				I take 				I will take
+
+				PASSIVE VOICE
+PREFIX				INFIX				SUFFIX
+Past				Present				Future
+Oshil לשו (OH-sheel)	shOil לוש (SHOH-eel)	shilO ולש (SHEE-loh)
+I was taken			I am taken 			I will be taken
+
+
+PERFECT (INVERTED PAST)
+Shil => Sh + I + L (SHEEL)
+		<---->
+		I  + Sh + L + A => Ishla הלשא (eesh-LAH)
+
+				ACTIVE VOICE
+Oshla הלשו (ohsh-LAH)	shOla הלוש (shoh-LAH)	ishlO ולשא (eesh-LOH)
+I had taken				I have taken			I will have taken
+
+				PASSIVE VOICE
+Oshla (OHSH-lah)	shOla (SHOH-lah)	ishlO (EESH-loh)
+I had been taken	I have been taken	I will have been taken
+
+
+CONDITIONAL/SUBJUNCTIVE (INVERTED FUTURE)
+Shil => Sh + I + L (SHEEL)
+			 <---->
+		SH + L + I (SHLEE)
+
+				ACTIVE VOICE
+Oshli (oh-SHLEE) 	shOli (sho-LEE) 	shlO (SHLOH)
+I could take        I should take       I would take
+
+				PASSIVE VOICE
+Oshli (OH-shlee) 	shOli (SHO-lee) 	shlO (SHLOH)
+I could be taken    I should be taken   I would be taken
+
+
+ARTICLES 
+ADD -A Suffix for Definite article:
+
+(a) cat => C + a + T
+		   L + i + Sh      => Lish (LIHSH) "(a) cat"
+		   L + i + Sh + -A => Lisha (lih-SHA) "The cat"
+
+(a) dove => D + o + V + -E
+			T + e + F + _   => Tef (TEHF) "(a) dove"
+			T + e + F + -A  => Tefa (teh-FAH) "the dove"
+
+PLURALS
+Invert vowels:
+
+cats =>   C + a + T + -S
+          L + i + Sh
+              <---->
+		  L + Sh + i     => Lshi (luh-SHIH) "cats"
+		                     
+doves => D + o + V + -E + -S
+		 T + e + F
+		 	 <---->
+		 T + F + e => Tfe (tuh-FEH) "doves"
+
+POSSESIVES
+Add person vowel to before/after end letter
+
+my cat => L + i + Sh
+		  L + i + -O- + -Sh => Liosh (lee-OHSH) "my cat"
+		  L + i + -A- + -Sh => Liash (lee-AHSH) "his cat"
+
+my dove => T + e + F
+		   T + e + -O- + F => Teof (teh-OHF) "my dove"
+		   T + e + -E- + F => Teef (teh-EHF) "their dove"
+
+PLURAL POSSESIVES
+Change to plural form
+Replace ending vowel with personal
+
+my cats => L + i + Sh
+			   <----->
+		   L + Sh + i
+           L + Sh + -O => Lsho (luh-SHOH) "my cats"
+           L + Sh + -U => Lshu (luh-SHOO) "our cats"
+
+my doves => T + e + F
+                <----->
+            T + F + e
+            T + F + -O => Tfo (tuh-FOH) "my doves"
+
+
+DEFINITE POSSESIVES
+Change to plural form
+Replace ending vowel with -A definite article
+
+the cats => C + a + T
+            L + i + Sh
+               <----->
+            L + Sh + i
+
+To distinguish between his cats and the cats (both are Lsha)
+Move the stress to the penultimate syllable for 3P possesives:
+
+            L + Sh + -A => Lsha (luh-SHAH) "the cats"
+            L + Sh + -A => Lsha (LUH-shah) "his cats"
+
+
+PRONOUNS
+Use personal vowels as suffices
+Stress stays on origninal last syllable:
+
+I will take you => T  + A + K
+				   Sh + I + L
+				   Sh + I + L + -O
+				   Sh + I + L + -O + -I => Shiloi (shee-LOH-ee) "I will take you"
+
+We took him	=> Ushila (oo-SHEE-lah)
+
+Sometimes the original root vowel and perfect suffix may be lost
+They have been taken (by) me => Ushlo (oo-SHLOH) U-IshlA-O => U-_shl_-o
+
+They walked by the trees of the river and would have went forever
+הבפל עדו הבפו הבשב הלקחא
+(eh-kheek-LAH buh-SHVAH vahf-VAH veh-DEH lahf-VAH)
